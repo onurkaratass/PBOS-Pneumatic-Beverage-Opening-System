@@ -1,4 +1,5 @@
 # PBOS: Pneumatic Beverage Opening System 🍾⚙️
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F2VKED-blue.svg)](https://doi.org/10.17605/OSF.IO/2VKED)
 
 > **Mechanical Design, Pneumatic Actuation, and Functional Prototype Validation**
 
@@ -7,6 +8,7 @@ PBOS is an automated, benchtop mechanical apparatus designed to standardize and 
 ---
 
 ## 📄 Technical Report & Publication
+- 📜 **Official DOI:** [10.17605/OSF.IO/2VKED](https://doi.org/10.17605/OSF.IO/2VKED)
 The complete engineering report detailing mechanical kinematics, structural alignment, and pneumatic schematics is available in this repository:
 
 - 📥 **[Download Full Technical Report (PDF)](./PBOS_Technical_Report.pdf)**
